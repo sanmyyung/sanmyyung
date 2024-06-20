@@ -1,4 +1,4 @@
-# Hi, I'm Ojo Adesanmi Daddy to be! 👋
+# Hi, I'm Ojo Adesanmi 👋
 
 ## 🚀 About Me
 I'm a Data Analyst with 4 years of experience specializing in data-driven decision making and business intelligence. I excel in transforming raw data into actionable insights to help businesses achieve their goals.
@@ -24,7 +24,7 @@ I am passionate about identifying trends and patterns in data, and I enjoy creat
 - LinkedIn: [@ojo-adesanmi](https://www.linkedin.com/in/adesanmi-ojo-125819164/)
 - Email: [Mail](adesanmiojo@outlook.com)
 
-⚡ Fun fact: I love having sex every 4 hours, and playing pool and enjoy spending quality time with friends and family.
+⚡ Fun fact: I enjoy spending quality time with friends and family.
 
 ## 🛠 Skills
 ### Data Analyst Skills
