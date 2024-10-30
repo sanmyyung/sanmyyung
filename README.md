@@ -22,7 +22,7 @@ I am passionate about identifying trends and patterns in data, and I enjoy creat
 
 📫 How to reach me: 
 - LinkedIn: [@ojo-adesanmi](https://www.linkedin.com/in/adesanmi-ojo-125819164/)
-- Email: [Mail](adesanmiojo@outlook.com)
+- Email: [Mail](ojoadesanmi@outlook.com)
 
 ⚡ Fun fact: I enjoy spending quality time with friends and family.
 
