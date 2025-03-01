@@ -3,13 +3,13 @@
 ## 🚀 About Me
 I'm a Data Analyst with 4 years of experience specializing in data-driven decision making and business intelligence. I excel in transforming raw data into actionable insights to help businesses achieve their goals.
 
-My expertise includes statistical analysis, data visualization, and process automation. I am proficient in using tools such as Python, R, Excel, Power BI, and SQL to analyze and interpret complex data sets.
+My expertise includes statistical analysis, data visualization, and process automation. I am proficient in using tools such as Python, R, Tableau, Excel, Power BI, and SQL to analyze and interpret complex data sets.
 
 I am passionate about identifying trends and patterns in data, and I enjoy creating compelling visualizations that communicate these insights effectively to stakeholders. My goal is to support data-driven decision-making processes and drive business success through precise data analysis.
 
 
 ## More About Me
-👨‍💻 I currently use Python, Excel, Power BI, SQL, and big data tools.
+👨‍💻 I currently use Python, Tableau, Excel, Power BI, SQL, and big data tools.
 
 🔭 I’m currently working on Autonomous Agent (AutoGPT) using OpenAI
 🌱 I’m currently learning Prompt Engineering and Large Language Models..
